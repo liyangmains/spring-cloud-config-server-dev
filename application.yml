@@ -24,4 +24,4 @@ eureka:
     instance-id: ${spring.application.name}:${spring.application.instance_id:${server.port}}
 mybatis:
   mapper-locations: classpath*:com/ly/*/mapper/*.xml
-name: 测试
+name: 测试application
